@@ -1,10 +1,3 @@
-<!--
-Drop this into a repo named the same as your GitHub username to make it your profile homepage.
-Cute, clean, and a little playful ✨
--->
-
-<!-- Header banner (customize the text/colors) -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&text=Hi%2C%20I'm%20Neev%20👋&fontAlign=50&fontSize=48&color=0:FFC6FF,100:CDE7FF&textBg=false" alt="Hi, I'm Neev" />
 </p>
@@ -54,28 +47,22 @@ Cute, clean, and a little playful ✨
 
 ### 💿 featured projects
 
-<!-- Replace links with your real repos and thumbnails -->
-
 **🎵 osu! radio — desktop music player**
 React • Electron • custom audio controls & progress bar
-➡️ Repo: [osu-radio](https://github.com/neevseedani/osu-radio) • Demo: [https://YOUR-DEMO-LINK](https://YOUR-DEMO-LINK)
+➡️ Repo: [osu-radio](https://github.com/neevseedani/osu-radio)
 
 **🧭 Mobbin‑style UI library w/ CLDR tagging**
 Next.js • Screenshot library • Component & data‑type tags
-➡️ Repo: [ui-vault](https://github.com/neevseedani/ui-vault) • Demo: [https://YOUR-DEMO-LINK](https://YOUR-DEMO-LINK)
+➡️ Repo: [ui-vault](https://github.com/neevseedani/ui-vault)
 
 **🌱 founder support club microsite**
 Astro • Minimal, accessible info hub + speaker roster
-➡️ Repo: [founders-at-stanford](https://github.com/neevseedani/founders-at-stanford) • Demo: [https://YOUR-DEMO-LINK](https://YOUR-DEMO-LINK)
-
-> Tip: add cute cover images to each repo (📁 `/docs/cover.png`) and they’ll show up on social previews!
+➡️ Repo: [founders-at-stanford](https://github.com/neevseedani/founders-at-stanford)
 
 ---
 
 ### 🎨 design gallery
 
-* Behance / Dribbble: **add links here**
-* Figma community files: **add links here**
 * Selected shots:
 
   * 🃏 music player card with text overlay & hover zoom
@@ -97,25 +84,6 @@ Astro • Minimal, accessible info hub + speaker roster
 
 * 🔭 current focus: **audio player UX** & **Firebase**
 * 🧪 experiments: [sandboxes](https://codesandbox.io/u/neevseedani)
-* 📝 notes & writeups: [notebook](https://YOUR-LINK)
-* 📫 reach me: neev\@YOURDOMAIN • [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/) • [Portfolio](https://YOUR-SITE)
-
----
-
-### ☕ buy me a boba?
-
-If you like my work and want to cheer me on:
-
-<a href="https://www.buymeacoffee.com/YOUR_LINK"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Boba-ffd7e0?logo=buymeacoffee&logoColor=000"/></a>
-
----
-
-#### ✍️ how to use
-
-1. Create a repo named **`neevseedani`** (exactly your username).
-2. Add a file named **`README.md`** and paste this content.
-3. Replace every `neevseedani` and link placeholder.
-4. Tweak emojis, colors, and sections to match your vibe.
 
 ---
 
