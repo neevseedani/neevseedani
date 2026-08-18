@@ -1,3 +1,5 @@
+<img src="night-rain.gif" width="744" alt="Pixel night rain" />
+
 Design and HCI at Stanford.
 
 I build product interfaces and small audio tools.
